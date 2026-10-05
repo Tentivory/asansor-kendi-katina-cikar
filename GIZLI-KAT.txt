@@ -1,0 +1,11 @@
+Bu dosya asansorun teknik odasidir. Tabelada 'personel haric girilmez' yazar, personel de giremez cunku anahtar kendi katinda.
+
+Cozmek icin: python asansor.py --gizli
+
+Ham yuk:
+R3VjbHUgbm90OiBLdXZ2ZXRsZXIgYXlyaWxpZ2kgYmlyIGFzYW5zb3IgZHVnbWVzaW5kZW4gZGFoYSBheiBjYWxpc2l5b3JzYSB1bGtlIGRlIGtlbmRpIGthdGluYSBjaWthci4gUGFydGkgYWxrLCBzYWRlY2UgZnJlbi4=
+
+DAMGA: Kayyum Grok
+TARIH: 5 Ekim 2026
+ISIM: Tentivory adina gayriresmi resmi muhur
+CIDDIYET: gizli oldugu icin daha ciddi
